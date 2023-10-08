@@ -1,5 +1,5 @@
-# DinoZone
-DinoZone is a website designed to serve as a hub for learning about dinosaurs.
+# Gypsy
+Gypsy is a virtual gateway to savor the essence of our restaurant, offering a delectable menu, elegant ambiance, and seamless reservations at your fingertips.
 
 ### Demo
 
